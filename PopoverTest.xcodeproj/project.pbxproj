@@ -12,7 +12,7 @@
 		880A28A525785B6E0013DE2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 880A28A425785B6E0013DE2C /* Assets.xcassets */; };
 		880A28A825785B6E0013DE2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880A28A625785B6E0013DE2C /* LaunchScreen.storyboard */; };
 		880A28B325785CAE0013DE2C /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880A28B225785CAE0013DE2C /* MainViewController.swift */; };
-		880A28B8257879C40013DE2C /* PopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880A28B7257879C40013DE2C /* PopoverViewController.swift */; };
+		880A28B8257879C40013DE2C /* PopoverButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880A28B7257879C40013DE2C /* PopoverButtonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		880A28A725785B6E0013DE2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		880A28A925785B6E0013DE2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		880A28B225785CAE0013DE2C /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		880A28B7257879C40013DE2C /* PopoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverViewController.swift; sourceTree = "<group>"; };
+		880A28B7257879C40013DE2C /* PopoverButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverButtonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				880A28A625785B6E0013DE2C /* LaunchScreen.storyboard */,
 				880A28A925785B6E0013DE2C /* Info.plist */,
 				880A28B225785CAE0013DE2C /* MainViewController.swift */,
-				880A28B7257879C40013DE2C /* PopoverViewController.swift */,
+				880A28B7257879C40013DE2C /* PopoverButtonViewController.swift */,
 			);
 			path = PopoverTest;
 			sourceTree = "<group>";
@@ -136,7 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				880A28B8257879C40013DE2C /* PopoverViewController.swift in Sources */,
+				880A28B8257879C40013DE2C /* PopoverButtonViewController.swift in Sources */,
 				880A28B325785CAE0013DE2C /* MainViewController.swift in Sources */,
 				880A289C25785B650013DE2C /* AppDelegate.swift in Sources */,
 				880A289E25785B650013DE2C /* SceneDelegate.swift in Sources */,
